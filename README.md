@@ -8,8 +8,6 @@
 - Good Validation
 - Play with size
 - EDA 
-- Checkin Code
-- Ensembling
 - Decide the btch size
 - Label normalization and bucketing thresholding
 - Defaults / constants
@@ -18,7 +16,6 @@
 - telegram
 - progressive resizing
 - mixup
-
 ```
 
 ### Links
