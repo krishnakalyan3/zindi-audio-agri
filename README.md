@@ -22,5 +22,5 @@
 ### Links
 - [Validation Framework](https://docs.google.com/spreadsheets/d/1_UMYWimZsuKXVwp3Qt8TRhReEMwGGOoe7Ek-8Y1GmMA/edit?usp=sharing)
 - [Leaderboard](https://zindi.africa/competitions/giz-nlp-agricultural-keyword-spotter/leaderboard)
-- [FastAudio](https://fastaudio.github.io/
+- [FastAudio](https://fastaudio.github.io)
 
