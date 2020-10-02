@@ -20,6 +20,7 @@
 ```
 
 ### Links
-- [Validation Framework](https://docs.google.com/spreadsheets/d/1CWXUw9a8hWNQKSRLRsy1kgsLKGTGUVm_WqcDaH4R51Y/edit?usp=drive_web&ouid=106342986004158874627)
+- [Validation Framework](https://docs.google.com/spreadsheets/d/1_UMYWimZsuKXVwp3Qt8TRhReEMwGGOoe7Ek-8Y1GmMA/edit?usp=sharing)
 - [Leaderboard](https://zindi.africa/competitions/giz-nlp-agricultural-keyword-spotter/leaderboard)
-- [FastAudio](https://fastaudio.github.io/)
+- [FastAudio](https://fastaudio.github.io/
+
