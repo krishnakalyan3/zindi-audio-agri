@@ -17,6 +17,8 @@
 - progressive resizing
 - mixup
 - K-Fold 
+- Find the best vaidation score
+- Fastaudio figure out about the arxiv papers
 ```
 
 ### Links
