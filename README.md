@@ -16,7 +16,7 @@
 - telegram
 - progressive resizing
 - mixup
-- K-Fold 
+- K-Fold / StratifiedKfold / RepeatedStratified(works better)
 - Find the best vaidation score
 - Fastaudio figure out about the arxiv papers
 ```
