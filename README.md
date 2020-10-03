@@ -5,10 +5,10 @@
 - Callbacks
 - Add date
 - Refactor Code
-- Issue with predit
+- Issue with predict
 - Play with size
 - EDA 
-- Decide the btch size
+- Decide the batch size
 - Label normalization and bucketing thresholding
 - Defaults / constants
 - Findout how many pixels?
