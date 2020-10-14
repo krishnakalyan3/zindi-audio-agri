@@ -7,18 +7,21 @@
 - Refactor Code
 - Issue with predict
 - Play with size
-- EDA 
+- EDA :ONGOING
 - Decide the batch size
 - Label normalization and bucketing thresholding
 - Defaults / constants
 - Findout how many pixels?
 - savemodel based on date
-- telegram
+- telegram :DONE
 - progressive resizing
 - mixup
 - K-Fold / StratifiedKfold / RepeatedStratified(works better)
 - Find the best vaidation score
 - Fastaudio figure out about the arxiv papers
+- Feature Engineering 
+  1. calculate the length of each audio signals
+  2. calculate for the envelope of a signal to remove the dead space in the audio files 
 ```
 
 ### Links
